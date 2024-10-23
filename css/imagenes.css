@@ -1,0 +1,6 @@
+.custom-img {
+    max-width: 900px;  /* Fijar el ancho máximo */
+    max-height: 800px; /* Fijar el alto máximo */
+    width: 100%;       /* Permitir que sea responsiva */
+    height: auto;      /* Mantener la proporción en pantallas pequeñas */
+  }
